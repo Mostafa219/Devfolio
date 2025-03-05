@@ -1,0 +1,46 @@
+
+
+ h1{
+    font-size: 35px;
+ }
+ .before-skill{
+    margin-top: 15px;
+ }
+ header p::after{
+    font-size: 25px;
+ }
+ .services .ph , .blog .paragraph , .Portfolio .paragraph{
+ font-size: 15px; }
+@media (min-width: 576px) {}
+
+
+@media (min-width: 768px) {
+
+    h1{
+        font-size: 75px;
+     }
+
+     .before-skill{
+        margin-top: 0;
+     }
+
+ 
+     header p::after{
+        font-size: 40px;
+     }
+
+     .services .ph  ,  .blog .paragraph , .Portfolio .paragraph{
+      font-size: 16px; }
+}
+
+
+
+@media (min-width: 992px) {}
+
+
+@media (min-width: 1200px) {}
+
+
+@media (min-width: 1400px) {}
+
+
